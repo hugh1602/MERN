@@ -6,7 +6,7 @@ Run the following command in the MERN folder to start the front-end:
 ```npm start```
 And run the follwing command for starting the server in the back-end folder:
 ``` npm start```
-##Backend
+## Backend
 The database for the backend is MongoDB, with Node.js and JWT for authentication, so far mosty opf the features implented can be tested using Postman or any platform, each user's token is in place and will be valid for no more than 30 days. Messaging is still being worked on. ![Screenshot 2023-01-04 164846](https://user-images.githubusercontent.com/106465654/210508431-55e52c70-d9f2-439d-88ae-3370192cb0ac.png)
 ![Screenshot 2023-01-04 164923](https://user-images.githubusercontent.com/106465654/210508439-ab5687a1-1c7b-482b-9b16-b6827cd92e90.png)
 ![Screenshot 2023-01-04 165004](https://user-images.githubusercontent.com/106465654/210508440-23f677ff-0242-4f64-9d7a-9361521a89a5.png)
@@ -20,7 +20,7 @@ The database for the backend is MongoDB, with Node.js and JWT for authentication
 ![Screenshot 2023-01-04 165308](https://user-images.githubusercontent.com/106465654/210508462-6481a108-f142-48f2-bd11-afbf0cca8dd3.png)
 
 
-##FrontEnd
+## FrontEnd
 React.js is being used for the frontend setup with Bootstrap for UI design. Chat features are yet to be implemented.![Screenshot 2023-01-04 165400](https://user-images.githubusercontent.com/106465654/210508947-d7715a68-85ec-4860-9557-935f5b6947e5.png)
 ![Screenshot 2023-01-04 165414](https://user-images.githubusercontent.com/106465654/210508953-1b729b98-e7f7-4453-a827-e5adc1b5168f.png)
 ![Screenshot 2023-01-04 165538](https://user-images.githubusercontent.com/106465654/210508955-a7b49582-bd86-4312-b93b-e1aedd8fbfed.png)
