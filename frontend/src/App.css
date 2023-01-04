@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@600&family=Splash&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@600&family=Press+Start+2P&family=Splash&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url("./background.png");
+  background-position: center;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.Banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 98.5%;
+  padding: 5px 10px 5px 10px;
+  border-width: 5px;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.test {
+  margin: 0px;
+  float: none;
+}
+
+.TitleCard {
+  position: relative;
+  background: none;
+  top: 300px;
+  display: flex;
+}
+
+.StanderdizedBox {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+}
+
+.gaping {
+  margin-right: 10px;
+}
+.adjust {
+  margin-left: 800px;
+}
+
+.InfoCard {
+  display: flex;
+  position: relative;
+  background-color: white;
+  opacity: 50;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+  width: 700px;
+}
+
+.addFont {
+  font-family: "Press Start 2P", cursive;
+  font-size: 60%;
+}
+
+.BasicFont {
+  font-family: "Press Start 2P", cursive;
+  font-size: 75%;
+}
+
+.normalFont {
+  font-family: "Press Start 2P", cursive;
+}
+
+.FontType {
+  font-family: "Press Start 2P", cursive;
+  color: white;
+  font-size: 75px;
+}
+.ButtonSize {
+  width: 50%;
+}
+
+.MoveRight {
+  right: 100px;
+}
+
+.warningToast {
+  position: relative;
+}
+
+.errorToast {
+  position: relative;
+}
+
+.successToast {
+  position: relative;
+}
+
+.fatalToast {
+  position: relative;
+}
+
+.prompt {
+  position: relative;
+}
+
+.successLogin {
+  position: relative;
+}
+
+.fatalLogin {
+  position: relative;
+}
+
+.errorLogin {
+  position: relative;
+}
