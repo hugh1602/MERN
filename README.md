@@ -1,6 +1,6 @@
 # MERN
 Chat app development
-##Installation and Usage
+## Installation and Usage
 Download and unzip the files anywhere, node modules should be included already, if not, try ```npm install``` at the root folder.
 Run the following command in the MERN folder to start the front-end:
 ```npm start```
